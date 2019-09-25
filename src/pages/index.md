@@ -7,11 +7,9 @@ sections:
       Dhanbad](https://www.iitism.ac.in/).
     section_id: hero
     type: heroblock
-  - actions:
-      - label: View Blog
-        url: blog/index.html
+  - actions: []
     component: PostsBlock
-    num_posts_displayed: 4
+    num_posts_displayed: 999
     section_id: recent-posts
     title: Recent Posts
     type: postsblock
