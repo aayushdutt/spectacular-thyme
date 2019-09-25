@@ -1,7 +1,8 @@
 ---
 title: How to effortlessly block every ad from your Android P device
 date: 2019-09-19T16:53:19.100Z
-content_img_path: /images/cellphone-device-electronics-699122.jpg
+thumb_img_path: /images/cellphone-device-electronics-699122.jpg
+content_img_path: ''
 template: post
 ---
 1. Go to Settings
